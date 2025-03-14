@@ -1,3 +1,4 @@
+import { DESTRUCTION } from 'dns';
 import type { Config } from 'tailwindcss';
 
 const config = {
